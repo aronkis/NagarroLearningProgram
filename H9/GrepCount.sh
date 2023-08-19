@@ -1,0 +1,1 @@
+echo "Total messages sent today: $(grep -c $(date +%Y-%m-%d) logs.txt)"

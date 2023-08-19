@@ -1,0 +1,5 @@
+client: PremiumCustomer, somewhere
+discount: 1%
+shopping cart:
+1: Product, price = 59, quantity = 1
+
